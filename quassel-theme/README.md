@@ -6,6 +6,6 @@
       ╚████╔╝ ██║  ██║██║     ╚██████╔╝██║  ██║
        ╚═══╝  ╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝
   
-        Quassel Theme using SteamOS colors
+Quassel Theme using SteamOS colors
 
 ![Vapor Theme Preview](preview.png)
