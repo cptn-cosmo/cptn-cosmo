@@ -436,22 +436,22 @@ ChatLine::sender#plain[sender="self"] { foreground: #fff; }
  * The names are calculated by taking the hash of the nickname.
  * Then take the modulo (the remainder) when divided by 16.
  */
-ChatLine::sender#plain[sender="0"] { foreground: #da4453; }
-ChatLine::sender#plain[sender="1"] { foreground: #346c92; }
-ChatLine::sender#plain[sender="2"] { foreground: #b34848; }
-ChatLine::sender#plain[sender="3"] { foreground: #7ea64b; }
-ChatLine::sender#plain[sender="4"] { foreground: #58afb3; }
-ChatLine::sender#plain[sender="5"] { foreground: #9d54b3; }
-ChatLine::sender#plain[sender="6"] { foreground: #b39775; }
-ChatLine::sender#plain[sender="7"] { foreground: #3176b3; }
-ChatLine::sender#plain[sender="8"] { foreground: #e945a2; }
-ChatLine::sender#plain[sender="9"] { foreground: #8e55e9; }
-ChatLine::sender#plain[sender="a"] { foreground: #b34d4d; }
-ChatLine::sender#plain[sender="b"] { foreground: #48b358; }
-ChatLine::sender#plain[sender="c"] { foreground: #58afb3; }
-ChatLine::sender#plain[sender="d"] { foreground: #9d54b3; }
-ChatLine::sender#plain[sender="e"] { foreground: #b39775; }
-ChatLine::sender#plain[sender="f"] { foreground: #3176b3; }
+ChatLine::sender#plain[sender="0"] { foreground: #ed1515; }
+ChatLine::sender#plain[sender="1"] { foreground: #4792b0; }
+ChatLine::sender#plain[sender="2"] { foreground: #f67400; }
+ChatLine::sender#plain[sender="3"] { foreground: #1d99f3; }
+ChatLine::sender#plain[sender="4"] { foreground: #9b59b6; }
+ChatLine::sender#plain[sender="5"] { foreground: #e3ffc2; }
+ChatLine::sender#plain[sender="6"] { foreground: #eff0f1; }
+ChatLine::sender#plain[sender="7"] { foreground: #c0392b; }
+ChatLine::sender#plain[sender="8"] { foreground: #abcfe4; }
+ChatLine::sender#plain[sender="9"] { foreground: #fdbc4b; }
+ChatLine::sender#plain[sender="a"] { foreground: #3daee9; }
+ChatLine::sender#plain[sender="b"] { foreground: #8e44ad; }
+ChatLine::sender#plain[sender="c"] { foreground: #8dbd55; }
+ChatLine::sender#plain[sender="d"] { foreground: #fcfcfc; }
+ChatLine::sender#plain[sender="e"] { foreground: #783228; }
+ChatLine::sender#plain[sender="f"] { foreground: #1b668f; }
 
 
 /*
