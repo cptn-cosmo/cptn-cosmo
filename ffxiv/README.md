@@ -4,3 +4,4 @@
 - for gshade (https://gposers.com/gshade/)
 
 ### FFXIVconf.fea
+- to import in FFXIV launcher
