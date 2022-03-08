@@ -1,0 +1,1 @@
+### Final Fantasy XIV configuration Backup & gshade config
